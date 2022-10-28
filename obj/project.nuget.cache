@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FK/n35fuW86V8k3Cb+gXI3fR7Smc60Ko/x3cgvh8xEgn7Ts4XoZ3S5K8w721Uppcj7RGite6z1/ehKs0YcdLfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\magpa\\Documents\\Week2API\\MagpantayJMadLibs\\MagpantayJMadLibs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\magpa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\magpa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\magpa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\magpa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\magpa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\magpa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
